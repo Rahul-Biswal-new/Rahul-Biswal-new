@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Software Development, Community Projects, Web Development,Open Source Projects
 - 📫 reach me at rahulbiswalweb@gmail.com
+-  Linkedin - https://www.linkedin.com/in/rahul-biswal/
 
 
 <!---
