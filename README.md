@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Rahul-Biswal-new
+- 👋 Hi, I’m @Rahul-Biswal
 - 👀 I’m interested in Web Development , Machine Learning, Data Structure & Algorithm.
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Software Development, Community Projects, Web Development,Open Source Projects
-- 📫 reach me at rahulbiswalweb@gmail.com
--  Linkedin - https://www.linkedin.com/in/rahul-biswal/
+- 📫 reach me at rahulbiswalnew@gmail.com
+-  Linkedin - https://www.linkedin.com/in/rahul-biswal1/
 
 
 <!---
