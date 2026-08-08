@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahul-Biswal
-- 👀 I’m interested in Web Development , Machine Learning, Data Structure & Algorithm.
+- 👀 I’m interested in Machine Learning, Data Structure & Algorithm.
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Software Development, Community Projects, Web Development,Open Source Projects
 - 📫 reach me at rahulbiswalnew@gmail.com
