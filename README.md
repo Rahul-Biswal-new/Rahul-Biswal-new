@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rahul-Biswal
-- 👀 I’m interested in Machine Learning, Data Structure & Algorithm.
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Software Development, Community Projects, Web Development,Open Source Projects
+- 👀 I’m interested in Deep learning, Machine Learning, Data Structure & Algorithm.
+- 🌱 I’m currently learning CUDA
 - 📫 reach me at rahulbiswalnew@gmail.com
 -  Linkedin - https://www.linkedin.com/in/rahul-biswal1/
 
@@ -20,10 +19,15 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
+### Artificial Intelligence
+![Data Structures and Algorithms](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-FF6C37?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6C37?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6C37?style=flat-square)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6C37?style=flat-square)
+
 ### Front-end Development
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 
 ### Back-end Development
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
@@ -38,23 +42,13 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
-### Other Skills
-![Data Structures and Algorithms](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-FF6C37?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6C37?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6C37?style=flat-square)
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6C37?style=flat-square)
 
 ### Interests
 ![Web Development](https://img.shields.io/badge/-Web%20Development-3498DB?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-3498DB?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/-Machine%20Learning-3498DB?style=flat-square)
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-3498DB?style=flat-square)
 ![Data Structures & Algorithms](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-3498DB?style=flat-square)
 
-### Collaboration Interests
-![Software Development](https://img.shields.io/badge/-Software%20Development-FFA500?style=flat-square)
-![Community Projects](https://img.shields.io/badge/-Community%20Projects-FFA500?style=flat-square)
-![Web Development](https://img.shields.io/badge/-Web%20Development-FFA500?style=flat-square)
-![Open Source Projects](https://img.shields.io/badge/-Open%20Source%20Projects-FFA500?style=flat-square)
 
 </div>
 
